@@ -18,3 +18,9 @@
 -Better error suggestion
 -HTTPS can also be done
 -Tree Shaking-remove unused code
+
+#React Hooks
+(Normal JS utility functions)
+
+-useState()-> Superpowerful state variable in react
+-useEffect()->
